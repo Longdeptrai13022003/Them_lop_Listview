@@ -1,0 +1,11 @@
+D:\Workspace\C#\Them_lop_hoc\bin\Debug\Them_lop_hoc.exe.config
+D:\Workspace\C#\Them_lop_hoc\bin\Debug\Them_lop_hoc.exe
+D:\Workspace\C#\Them_lop_hoc\bin\Debug\Them_lop_hoc.pdb
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.csproj.AssemblyReference.cache
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.Form1.resources
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.Properties.Resources.resources
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.csproj.GenerateResource.cache
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.exe
+D:\Workspace\C#\Them_lop_hoc\obj\Debug\Them_lop_hoc.pdb
